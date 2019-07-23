@@ -5,10 +5,10 @@ int main()
   int a;
   cin>>a;
   if(a>0)
-    cout<<"positive";
+    cout<<"Positive";
   else if(a<0)
-    cout<<"negative";
+    cout<<"Negative";
   else
-    cout<<"zero";
+    cout<<"Zero";
   return 0;
   }
